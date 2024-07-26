@@ -1,6 +1,6 @@
-License: © Purizu di Angelo Reale
-
-Authors: varsnothing aka Angelo Reale
+License: HPL3-ECO-AND-ANC 2021—Present
+Purizu di Angelo Reale Caldeira de Lemos dba DreamPip
+IT02925300903
 
 This repo is just an exercise on some engineering design patterns. I've used Next.js new pragma (App Router) to apply them, so that I could also learn that new way of using Next.js.
 
